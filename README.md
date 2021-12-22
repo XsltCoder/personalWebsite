@@ -1,3 +1,1 @@
 # personalWebsite
-url
-nurbekismailov.com
